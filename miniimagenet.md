@@ -1,13 +1,32 @@
 ---
-title: Tables
+title: miniImageNet
 datatable: true
-layout: miniimagenet
+layout: leaderboard
 ---
 
-
+## *mini*ImageNet Leaderboard
 
 Method   | Venue | Year | Backbone   | Learning | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
-[MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 62.64±0.61    | 78.63±0.46     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Paper\]](https://arxiv.org/pdf/1904.03758.pdf)
-[MTL](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 61.2±1.8    | 75.5±0.8    | [\[TensorFlow\]](https://github.com/yaoyao-liu/meta-transfer-learning/tree/master/tensorflow) [\[PyTorch\]](https://github.com/yaoyao-liu/meta-transfer-learning/tree/master/pytorch) | [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
-[MAML](https://arxiv.org/pdf/1703.03400.pdf) | ICML | 2017 | 4CONV | Inductive | 48.70±1.75 | 63.11±0.92  | [\[TensorFlow\]](https://github.com/cbfinn/maml) | [\[Paper\]](https://arxiv.org/pdf/1703.03400.pdf)
+[MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 62.64 ± 0.61    | 78.63 ± 0.46     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
+[MTL](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 61.2 ± 1.8    | 75.5 ± 0.8    | [\[PyTorch\]](https://github.com/yaoyao-liu/meta-transfer-learning/) | [\[Source\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
+[TADAM](http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning.pdf)     | NeurIPS   | 2018 | ResNet-12  | Inductive | 58.5 ± 0.3    | 76.7 ± 0.3     | [\[TensorFlow\]](https://github.com/ElementAI/TADAM) | [\[Source\]](http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning.pdf)
+[MAML](https://arxiv.org/pdf/1703.03400.pdf) | ICML | 2017 | 4CONV | Inductive | 48.70 ± 1.75 | 63.11 ± 0.92  | [\[TensorFlow\]](https://github.com/cbfinn/maml) | [\[Source\]](https://arxiv.org/pdf/1703.03400.pdf)
+[LEO](https://arxiv.org/pdf/1807.05960.pdf) | ICLR | 2019 | WRN-28-10 | Inductive | 61.76 ± 0.08 | 77.59 ± 0.12 | [\[TensorFlow\]](https://github.com/deepmind/leo) | [\[Source\]](https://arxiv.org/pdf/1807.05960.pdf)
+[ProtoNets](https://arxiv.org/pdf/1703.05175.pdf) | NeurIPS | 2017 | 4CONV | Inductive | 49.42 ± 0.78 | 68.20 ± 0.66  | [\[PyTorch\]](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch) | [\[Source\]](https://arxiv.org/pdf/1703.05175.pdf)
+[MatchingNets](https://arxiv.org/pdf/1606.04080.pdf) | NeurIPS | 2016 | 4CONV | Inductive | 43.56 ± 0.84 | 55.31 ± 0.73  | [\[TensorFlow\]](https://github.com/AntreasAntoniou/MatchingNetworks) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
+[RelationNets](https://arxiv.org/pdf/1711.06025.pdf) | CVPR | 2018 | 4CONV | Inductive | 50.44 ± 0.82 | 65.32 ± 0.70  | [\[PyTorch\]](https://github.com/floodsung/LearningToCompare_FSL) | [\[Source\]](https://arxiv.org/pdf/1711.06025.pdf)
+[TPN](https://arxiv.org/pdf/1805.10002.pdf) | ICLR | 2019 | 4CONV | Transductive | 55.51 ± 0.86 |  69.86 ± 0.65  | [\[TensorFlow\]](https://github.com/csyanbin/TPN) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
+[AdaResNet](https://arxiv.org/pdf/1712.09926.pdf) | ICML | 2018 | ResNet-12 | Inductive |  56.88 ± 0.62 | 71.94 ± 0.57  | None | [\[Source\]](https://arxiv.org/pdf/1711.06025.pdf)
+[DeepEMD](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DeepEMD_Few-Shot_Image_Classification_With_Differentiable_Earth_Movers_Distance_and_CVPR_2020_paper.pdf) | CVPR | 2020 | ResNet-12 | Inductive |  65.91 ± 0.82 | 82.41 ± 0.56  | [\[PyTorch\]](https://github.com/icoz69/DeepEMD) | [\[Source\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DeepEMD_Few-Shot_Image_Classification_With_Differentiable_Earth_Movers_Distance_and_CVPR_2020_paper.pdf)
+[ProtoNets](https://arxiv.org/pdf/1703.05175.pdf) | NeurIPS | 2017 | ResNet-12 | Inductive | 60.37 ± 0.83 | 78.02 ± 0.57  | [\[PyTorch\]](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch) | [\[Source\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DeepEMD_Few-Shot_Image_Classification_With_Differentiable_Earth_Movers_Distance_and_CVPR_2020_paper.pdf)
+[MatchingNets](https://arxiv.org/pdf/1606.04080.pdf) | NeurIPS | 2016 | ResNet-12 | Inductive | 63.08 ± 0.80 | 75.99 ± 0.60  | [\[TensorFlow\]](https://github.com/AntreasAntoniou/MatchingNetworks) | [\[Source\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DeepEMD_Few-Shot_Image_Classification_With_Differentiable_Earth_Movers_Distance_and_CVPR_2020_paper.pdf)
+[CTM](https://arxiv.org/pdf/1905.11116.pdf) | CVPR | 2019 | ResNet-18 | Inductive | 64.12 ± 0.82  | 80.51 ± 0.13  | [\[PyTorch\]](https://github.com/Clarifai/few-shot-ctm) | [\[Source\]](https://arxiv.org/pdf/1905.11116.pdf)
+[wDAE-GNN](https://arxiv.org/pdf/1905.01102.pdf) | CVPR | 2019 | WRN-28-10 | Inductive | 61.07 ± 0.15 | 76.75 ± 0.11  | [\[PyTorch\]](https://github.com/gidariss/wDAE_GNN_FewShot) | [\[Source\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DeepEMD_Few-Shot_Image_Classification_With_Differentiable_Earth_Movers_Distance_and_CVPR_2020_paper.pdf)
+[PPA](https://arxiv.org/pdf/1706.03466.pdf) | CVPR | 2018 | WRN-28-10 | Inductive | 59.60 ± 0.41 | 73.74 ± 0.19  | None | [\[Source\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DeepEMD_Few-Shot_Image_Classification_With_Differentiable_Earth_Movers_Distance_and_CVPR_2020_paper.pdf)
+[CAN](https://papers.nips.cc/paper/8655-cross-attention-network-for-few-shot-classification.pdf) | NeurIPS | 2019 | ResNet-12 | Inductive |  63.85 ± 0.48 | 79.44 ± 0.34 | [\[PyTorch\]](https://github.com/blue-blue272/fewshot-CAN) | [\[Source\]](https://papers.nips.cc/paper/8655-cross-attention-network-for-few-shot-classification.pdf)
+[CAN+T](https://papers.nips.cc/paper/8655-cross-attention-network-for-few-shot-classification.pdf) | NeurIPS | 2019 | ResNet-12 | Transductive |  67.19 ± 0.55 | 80.64 ± 0.35  | [\[PyTorch\]](https://github.com/blue-blue272/fewshot-CAN) | [\[Source\]](https://papers.nips.cc/paper/8655-cross-attention-network-for-few-shot-classification.pdf)
+[LGM-Net](https://arxiv.org/pdf/1905.06331.pdf) | ICML | 2019 | 6CONV | Inductive |  69.13 ± 0.35 | 71.18 ± 0.68  | [\[PyTorch\]](https://github.com/likesiwell/LGM-Net/) | [\[Source\]](https://arxiv.org/pdf/1905.06331.pdf)
+[FEAT](https://arxiv.org/pdf/1812.03664.pdf) | CVPR | 2020 | ResNet-12 | Inductive |  66.78 ± 0.20 | 82.05 ± 0.14  | [\[PyTorch\]](https://github.com/Sha-Lab/FEAT) | [\[Source\]](https://arxiv.org/pdf/1812.03664.pdf)
+[FEAT](https://arxiv.org/pdf/1812.03664.pdf) | CVPR | 2020 | 4CONV | Inductive |  55.15 ± 0.20 | 71.61 ± 0.16  | [\[PyTorch\]](https://github.com/Sha-Lab/FEAT) | [\[Source\]](https://arxiv.org/pdf/1812.03664.pdf)
+[FEAT](https://arxiv.org/pdf/1812.03664.pdf) | CVPR | 2020 | WRN-28-10 | Inductive |  65.10 ± 0.20 | 81.11 ± 0.14 | [\[PyTorch\]](https://github.com/Sha-Lab/FEAT) | [\[Source\]](https://arxiv.org/pdf/1812.03664.pdf)
