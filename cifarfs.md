@@ -1,6 +1,5 @@
 ---
 title: CIFAR-FS
-datatable: true
 layout: leaderboard
 ---
 
