@@ -1,6 +1,5 @@
 ---
 title: tieredImageNet
-datatable: true
 layout: leaderboard
 ---
 
@@ -24,3 +23,5 @@ Method   | Venue | Year | Backbone   | Learning | 1-shot      | 5-shot   | Code 
 [CAN+T](https://papers.nips.cc/paper/8655-cross-attention-network-for-few-shot-classification.pdf) | NeurIPS | 2019 | ResNet-12 | Transductive |  73.21 ± 0.58 | 84.93 ± 0.38  | [\[PyTorch\]](https://github.com/blue-blue272/fewshot-CAN) | [\[Source\]](https://papers.nips.cc/paper/8655-cross-attention-network-for-few-shot-classification.pdf)
 [FEAT](https://arxiv.org/pdf/1812.03664.pdf) | CVPR | 2020 | WRN-28-10 | Inductive |  70.41 ± 0.23 | 84.38 ± 0.16 | [\[PyTorch\]](https://github.com/Sha-Lab/FEAT) | [\[Source\]](https://arxiv.org/pdf/1812.03664.pdf)
 [FEAT](https://arxiv.org/pdf/1812.03664.pdf) | CVPR | 2020 | ResNet-12 | Inductive |  70.80 ± 0.23  | 84.79 ± 0.16 | [\[PyTorch\]](https://github.com/Sha-Lab/FEAT) | [\[Source\]](https://arxiv.org/pdf/1812.03664.pdf)
+[Transductive fine-tuning](https://openreview.net/pdf?id=rylXBkrYDS) | ICLR | 2020 | WRN-28-10 | Transductive |  73.34 ± 0.71 | 85.50 ± 0.50 | None | [\[Source\]](https://openreview.net/pdf?id=rylXBkrYDS)
+[SIB](https://openreview.net/pdf?id=Hkg-xgrYvH) | ICLR | 2020 | WRN-28-10 | Transductive |  72.9 | 82.8 | [\[PyTorch\]](https://github.com/hushell/sib_meta_learn) | [\[Source\]](https://openreview.net/pdf?id=Hkg-xgrYvH)

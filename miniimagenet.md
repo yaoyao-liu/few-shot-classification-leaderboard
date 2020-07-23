@@ -1,6 +1,5 @@
 ---
 title: miniImageNet
-datatable: true
 layout: leaderboard
 ---
 
@@ -30,3 +29,6 @@ Method   | Venue | Year | Backbone   | Learning | 1-shot      | 5-shot   | Code 
 [FEAT](https://arxiv.org/pdf/1812.03664.pdf) | CVPR | 2020 | ResNet-12 | Inductive |  66.78 ± 0.20 | 82.05 ± 0.14  | [\[PyTorch\]](https://github.com/Sha-Lab/FEAT) | [\[Source\]](https://arxiv.org/pdf/1812.03664.pdf)
 [FEAT](https://arxiv.org/pdf/1812.03664.pdf) | CVPR | 2020 | 4CONV | Inductive |  55.15 ± 0.20 | 71.61 ± 0.16  | [\[PyTorch\]](https://github.com/Sha-Lab/FEAT) | [\[Source\]](https://arxiv.org/pdf/1812.03664.pdf)
 [FEAT](https://arxiv.org/pdf/1812.03664.pdf) | CVPR | 2020 | WRN-28-10 | Inductive |  65.10 ± 0.20 | 81.11 ± 0.14 | [\[PyTorch\]](https://github.com/Sha-Lab/FEAT) | [\[Source\]](https://arxiv.org/pdf/1812.03664.pdf)
+[Transductive fine-tuning](https://openreview.net/pdf?id=rylXBkrYDS) | ICLR | 2020 | WRN-28-10 | Transductive |  65.73 ± 0.68 | 78.40 ± 0.52 | None | [\[Source\]](https://openreview.net/pdf?id=rylXBkrYDS)
+[SIB](https://openreview.net/pdf?id=Hkg-xgrYvH) | ICLR | 2020 | WRN-28-10 | Transductive |  70.0 ± 0.6 | 79.2 ± 0.4 | [\[PyTorch\]](https://github.com/hushell/sib_meta_learn) | [\[Source\]](https://openreview.net/pdf?id=Hkg-xgrYvH)
+[SIB](https://openreview.net/pdf?id=Hkg-xgrYvH) | ICLR | 2020 | 4CONV | Transductive |  63.26 ± 1.07 | 75.73 ± 0.71 | [\[PyTorch\]](https://github.com/hushell/sib_meta_learn) | [\[Source\]](https://openreview.net/pdf?id=Hkg-xgrYvH)
