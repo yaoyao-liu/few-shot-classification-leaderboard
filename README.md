@@ -12,6 +12,6 @@ Fewshot-CIFAR100 (FC100): [\[html\]](https://few-shot-classification-leaderboard
 
 CIFAR-FS: [\[html\]](https://few-shot-classification-leaderboard.yyliu.net/cifar-fs.html) [\[Markdown\]](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/blob/master/cifarfs.md)
 
-Feel free to create issues and pull requests to add new results.
+Feel free to create [issues](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/issues/new) and [pull requests](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/compare) to add new results.
 
 Contact: Yaoyao Liu Email: yaoyao.liu (at) mpi-inf.mpg.de
