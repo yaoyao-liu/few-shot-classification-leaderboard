@@ -16,4 +16,8 @@ CIFAR-FS: [\[html\]](https://few-shot-classification-leaderboard.yyliu.net/cifar
 
 Feel free to create [issues](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/issues/new) and [pull requests](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/compare) to add new results.
 
-Contact: Yaoyao Liu Email: yaoyao.liu (at) mpi-inf.mpg.de
+### Contact
+
+Yaoyao Liu / yaoyao.liu (at) mpi-inf.mpg.de
+
+Chi Zhang / chi007 (at) e.ntu.edu.sg
