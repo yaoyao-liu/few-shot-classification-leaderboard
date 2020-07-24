@@ -4,7 +4,7 @@ layout: leaderboard
 ---
 
 
-## CIFAR-FS Leaderboard
+## CIFAR-FS Leaderboard (5-class)
 
 Method   | Venue | Year | Backbone   | Learning | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----

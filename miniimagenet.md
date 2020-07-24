@@ -3,7 +3,7 @@ title: miniImageNet
 layout: leaderboard
 ---
 
-## *mini*ImageNet Leaderboard
+## *mini*ImageNet Leaderboard (5-class)
 
 Method   | Venue | Year | Backbone   | Learning | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
