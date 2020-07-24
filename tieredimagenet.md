@@ -6,7 +6,7 @@ layout: leaderboard
 
 ## *tiered*ImageNet Leaderboard (5-class)
 
-Method   | Venue | Year | Backbone   | Learning | 1-shot      | 5-shot   | Code | Reported by 
+Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
 [MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive |  65.99 ± 0.72    | 81.56 ± 0.53     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
 [LEO](https://arxiv.org/pdf/1807.05960.pdf) | ICLR | 2019 | WRN-28-10 | Inductive | 66.33 ± 0.05 | 82.06 ± 0.08 | [\[TensorFlow\]](https://github.com/deepmind/leo) | [\[Source\]](https://arxiv.org/pdf/1807.05960.pdf)
@@ -29,3 +29,4 @@ Method   | Venue | Year | Backbone   | Learning | 1-shot      | 5-shot   | Code 
 [Ravichandran et al.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ravichandran_Few-Shot_Learning_With_Embedded_Class_Models_and_Shot-Free_Meta_Training_ICCV_2019_paper.pdf) | ICCV | 2019 | ResNet-12 | Inductive | 66.87  | 82.64 | None| [\[Source\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ravichandran_Few-Shot_Learning_With_Embedded_Class_Models_and_Shot-Free_Meta_Training_ICCV_2019_paper.pdf)
 [Robust 20-dist++](https://openaccess.thecvf.com/content_ICCV_2019/papers/Dvornik_Diversity_With_Cooperation_Ensemble_Methods_for_Few-Shot_Classification_ICCV_2019_paper.pdf) | ICCV | 2019 | ResNet-12 | Inductive |70.44 ± 0.32  | 85.43 ± 0.21 | [\[PyTorch\]](https://github.com/dvornikita/fewshot_ensemble) | [\[Source\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Dvornik_Diversity_With_Cooperation_Ensemble_Methods_for_Few-Shot_Classification_ICCV_2019_paper.pdf)
 [CC+rot](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf) | ICCV | 2019 | WRN-28-10 | Inductive | 62.93 ± 0.45 | 79.87 ± 0.33 | [\[PyTorch\]](https://github.com/valeoai/BF3S) | [\[Source\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
+[DeepEMD v2](https://arxiv.org/pdf/2003.06777.pdf) | Arxiv | 2020 | ResNet-12 | Inductive |  74.29 ± 0.32 | 87.08 ± 0.60  | [\[PyTorch\]](https://github.com/icoz69/DeepEMD) | [\[Source\]](https://arxiv.org/pdf/2003.06777.pdf)
