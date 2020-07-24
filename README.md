@@ -4,7 +4,7 @@
 
 [\[Project Page\]](https://few-shot.yyliu.net/)
 
-The goal of this project is to keep on track of **state-of-the-art (SOTA)** for the few-shot classification.
+The goal of this project is to keep on track of the **state-of-the-arts (SOTA)** for the few-shot classification.
 
 *mini*ImageNet: [\[html\]](https://few-shot.yyliu.net/miniimagenet.html) [\[Markdown\]](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/blob/master/miniimagenet.md)
 
