@@ -1,1 +1,0 @@
-miniimagenet.md
