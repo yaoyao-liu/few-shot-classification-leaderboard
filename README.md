@@ -12,7 +12,7 @@ The goal of this project is to keep on track of the **state-of-the-arts (SOTA)**
 
 Fewshot-CIFAR100 (FC100): [\[html\]](https://few-shot.yyliu.net/fc100.html) [\[Markdown\]](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/blob/master/fc100.md)
 
-CIFAR-FS: [\[html\]](https://few-shot.yyliu.net/cifar-fs.html) [\[Markdown\]](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/blob/master/cifarfs.md)
+CIFAR-FS: [\[html\]](https://few-shot.yyliu.net/cifarfs.html) [\[Markdown\]](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/blob/master/cifarfs.md)
 
 Feel free to create [issues](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/issues/new) and [pull requests](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/compare) to add new results.
 
