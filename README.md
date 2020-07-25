@@ -1,6 +1,6 @@
 # Few-Shot Classification Leaderboard
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/few-shot-classification-leaderboard)](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/few-shot-classification-leaderboard?style=flat-square)](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/blob/master/LICENSE)
 
 [\[Project Page\]](https://few-shot.yyliu.net/)
 
