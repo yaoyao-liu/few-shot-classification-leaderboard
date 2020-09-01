@@ -5,6 +5,8 @@ layout: leaderboard
 
 ## *mini*ImageNet Leaderboard (5-class)
 
+#### [Edit this leaderboard](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/edit/master/miniimagenet.md)
+
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
 [MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 62.64 ± 0.61    | 78.63 ± 0.46     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
