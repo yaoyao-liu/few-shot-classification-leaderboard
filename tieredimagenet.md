@@ -6,6 +6,8 @@ layout: leaderboard
 
 ## *tiered*ImageNet Leaderboard (5-class)
 
+#### [Edit this leaderboard](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/edit/master/tieredimagenet.md)
+
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
 [MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive |  65.99 ± 0.72    | 81.56 ± 0.53     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
