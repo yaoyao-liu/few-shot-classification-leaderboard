@@ -6,7 +6,7 @@ layout: leaderboard
 
 ## CIFAR-FS Leaderboard (5-class)
 
-#### [Edit this leaderboard](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/edit/master/cifarfs.md)
+#### [Edit this leaderboard](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/edit/main/cifarfs.md)
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
