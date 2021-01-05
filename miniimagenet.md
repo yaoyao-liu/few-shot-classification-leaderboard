@@ -9,6 +9,7 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[GNN](https://arxiv.org/pdf/1711.04043.pdf) + [FT](https://arxiv.org/pdf/2001.08735.pdf) | ICLR | 2020 | ResNet-10 | Inductive | 66.32 ± 0.80 | 81.98 ± 0.55 | [\[PyTorch\]](https://github.com/hytseng0509/CrossDomainFewShot) | [\[Source\]](https://arxiv.org/pdf/2001.08735.pdf)
 [MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 62.64 ± 0.61    | 78.63 ± 0.46     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
 [MTL](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 61.2 ± 1.8    | 75.5 ± 0.8    | [\[PyTorch\]](https://github.com/yaoyao-liu/meta-transfer-learning/) | [\[Source\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
 [TADAM](http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning.pdf)     | NeurIPS   | 2018 | ResNet-12  | Inductive | 58.5 ± 0.3    | 76.7 ± 0.3     | [\[TensorFlow\]](https://github.com/ElementAI/TADAM) | [\[Source\]](http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning.pdf)
