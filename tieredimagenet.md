@@ -59,3 +59,4 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [IEPT](https://openreview.net/pdf?id=xzqLpqRzxLq)     | ICLR   | 2021 | 4CONV  | Inductive | 58.25 ± 0.48    | 75.63 ± 0.46     | None | [\[Source\]](https://openreview.net/pdf?id=xzqLpqRzxLq)
 [MELR](https://openreview.net/pdf?id=D3PcGLdMx0)     | ICLR   | 2021 | ResNet-12  | Inductive | 72.14 ± 0.51    | 87.01 ± 0.35     | None | [\[Source\]](https://openreview.net/pdf?id=D3PcGLdMx0)
 [MELR](https://openreview.net/pdf?id=D3PcGLdMx0)     | ICLR   | 2021 | 4CONV  | Inductive | 56.38 ± 0.48    | 73.22 ± 0.41     | None | [\[Source\]](https://openreview.net/pdf?id=D3PcGLdMx0)
+[BOIL](https://openreview.net/pdf?id=umIdUL8rMH)     | ICLR   | 2021 | 4CONV  | Inductive | 49.35 ± 0.26    | 69.37 ± 0.12     | None | [\[Source\]](https://openreview.net/pdf?id=umIdUL8rMH)
