@@ -81,3 +81,4 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [ConstellationNet](https://openreview.net/pdf?id=vujTf_I8Kmc)     | ICLR   | 2021 | ResNet-12   | Inductive | 64.89 ± 0.23    | 79.95 ± 0.37     | None | [\[Source\]](https://openreview.net/pdf?id=vujTf_I8Kmc)
 [OVE PG G P+ Cosine (ML)](https://openreview.net/pdf?id=lgNx56yZh8a)     | ICLR   | 2021 | 4CONV  | Inductive | 50.02 ± 0.35    | 64.58 ± 0.31     | None | [\[Source\]](https://openreview.net/pdf?id=lgNx56yZh8a)
 [OVE PG G P+ Cosine (PL)](https://openreview.net/pdf?id=lgNx56yZh8a)     | ICLR   | 2021 | 4CONV  | Inductive | 48.00 ± 0.24    | 67.14 ± 0.23     | None | [\[Source\]](https://openreview.net/pdf?id=lgNx56yZh8a)
+[BOIL](https://openreview.net/pdf?id=umIdUL8rMH)     | ICLR   | 2021 | 4CONV  | Inductive | 49.61 ± 0.16    | 56.82 ± 0.21     | None | [\[Source\]](https://openreview.net/pdf?id=umIdUL8rMH)
