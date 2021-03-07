@@ -57,3 +57,5 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [IFSL](https://proceedings.neurips.cc/paper/2020/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf) | NeurIPS | 2020 | WRN-28-10 | Transductive | 83.07  | 88.69  | [\[PyTorch\]](https://github.com/yue-zhongqi/ifsl) | [\[Source\]](https://proceedings.neurips.cc/paper/2020/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf)
 [IEPT](https://openreview.net/pdf?id=xzqLpqRzxLq)     | ICLR   | 2021 | ResNet-12  | Inductive | 72.24 ± 0.50   | 86.73 ± 0.34     | None | [\[Source\]](https://openreview.net/pdf?id=xzqLpqRzxLq)
 [IEPT](https://openreview.net/pdf?id=xzqLpqRzxLq)     | ICLR   | 2021 | 4CONV  | Inductive | 58.25 ± 0.48    | 75.63 ± 0.46     | None | [\[Source\]](https://openreview.net/pdf?id=xzqLpqRzxLq)
+[MELR](https://openreview.net/pdf?id=D3PcGLdMx0)     | ICLR   | 2021 | ResNet-12  | Inductive | 72.14 ± 0.51    | 87.01 ± 0.35     | None | [\[Source\]](https://openreview.net/pdf?id=D3PcGLdMx0)
+[MELR](https://openreview.net/pdf?id=D3PcGLdMx0)     | ICLR   | 2021 | 4CONV  | Inductive | 56.38 ± 0.48    | 73.22 ± 0.41     | None | [\[Source\]](https://openreview.net/pdf?id=D3PcGLdMx0)
