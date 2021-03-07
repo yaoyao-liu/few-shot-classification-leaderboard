@@ -76,3 +76,5 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [LR+DC](https://openreview.net/pdf?id=JWOiYxMG92s)     | ICLR   | 2021 | WRN-28-10  | Inductive | 68.57 ± 0.55    | 82.88 ± 0.42     | [\[PyTorch\]](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration) | [\[Source\]](https://openreview.net/pdf?id=JWOiYxMG92s)
 [IEPT](https://openreview.net/pdf?id=xzqLpqRzxLq)     | ICLR   | 2021 | ResNet-12  | Inductive | 67.05 ± 0.44    | 82.90 ± 0.30     | None | [\[Source\]](https://openreview.net/pdf?id=xzqLpqRzxLq)
 [IEPT](https://openreview.net/pdf?id=xzqLpqRzxLq)     | ICLR   | 2021 | 4CONV  | Inductive | 56.26 ± 0.45    | 73.91 ± 0.34     | None | [\[Source\]](https://openreview.net/pdf?id=xzqLpqRzxLq)
+[MELR](https://openreview.net/pdf?id=D3PcGLdMx0)     | ICLR   | 2021 | ResNet-12  | Inductive | 67.40 ± 0.43    | 83.40 ± 0.28     | None | [\[Source\]](https://openreview.net/pdf?id=D3PcGLdMx0)
+[MELR](https://openreview.net/pdf?id=D3PcGLdMx0)     | ICLR   | 2021 | 4CONV  | Inductive | 55.35 ± 0.43    | 72.27 ± 0.35     | None | [\[Source\]](https://openreview.net/pdf?id=D3PcGLdMx0)
