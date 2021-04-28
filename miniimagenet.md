@@ -86,3 +86,4 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | WRN | Inductive |  65.35 ± 0.20 | 83.87 ± 0.13  | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
 [PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | WRN | Transductive |  82.92 ± 0.26 | 88.82 ± 0.13  | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
 [CSEI](https://www.aaai.org/AAAI21Papers/AAAI-540.LiJ.pdf) | AAAI | 2021 | ResNet-12 | Inductive |  68.94 ± 0.28 | 85.07 ± 0.50  | None | [\[Source\]](https://www.aaai.org/AAAI21Papers/AAAI-540.LiJ.pdf)
+[PTN](https://arxiv.org/pdf/2012.10844.pdf) | AAAI | 2021 | WRN-28-10  | Semi-supervised |  82.66 ± 0.97 | 88.43 ± 0.67  | None | [\[Source\]](https://arxiv.org/pdf/2012.10844.pdf)
