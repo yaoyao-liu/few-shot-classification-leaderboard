@@ -63,3 +63,4 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [FRN](https://arxiv.org/pdf/2012.01506.pdf) | CVPR | 2021 | ResNet-12 | Inductive |  72.06 ± 0.22 | 86.89 ± 0.14  | [\[PyTorch\]](https://github.com/Tsingularity/FRN) | [\[Source\]](https://arxiv.org/pdf/2012.01506.pdf)
 [PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | DenseNet121 | Inductive | 69.96 ± 0.22 | 86.45 ± 0.15  | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
 [PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | DenseNet121 | Transductive |  85.67 ± 0.26 | 90.45 ± 0.14 | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
+[CSEI](https://www.aaai.org/AAAI21Papers/AAAI-540.LiJ.pdf) | AAAI | 2021 | ResNet-12 | Inductive |  73.76 ± 0.32 | 87.83 ± 0.59  | None | [\[Source\]](https://www.aaai.org/AAAI21Papers/AAAI-540.LiJ.pdf)
