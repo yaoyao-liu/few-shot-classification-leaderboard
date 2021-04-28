@@ -66,3 +66,4 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [CSEI](https://www.aaai.org/AAAI21Papers/AAAI-540.LiJ.pdf) | AAAI | 2021 | ResNet-12 | Inductive |  73.76 ± 0.32 | 87.83 ± 0.59  | None | [\[Source\]](https://www.aaai.org/AAAI21Papers/AAAI-540.LiJ.pdf)
 [PTN](https://arxiv.org/pdf/2012.10844.pdf) | AAAI | 2021 | WRN-28-10  | Semi-supervised |  84.70 ± 1.14 | 89.14 ± 0.71 | None | [\[Source\]](https://arxiv.org/pdf/2012.10844.pdf)
 [CNL](https://www.aaai.org/AAAI21Papers/AAAI-3486.ZhaoJ.pdf) | AAAI | 2021 | ResNet-12  | Inductive |  73.42 ± 0.95 | 87.72 ± 0.75 | None | [\[Source\]](https://www.aaai.org/AAAI21Papers/AAAI-3486.ZhaoJ.pdf)
+[TACO](https://www.aaai.org/AAAI21Papers/AAAI-5922.YeHJ.pdf) | AAAI | 2021 | ResNet-12  | Semi-supervised | 75.53 | 85.72 | None | [\[Source\]](https://www.aaai.org/AAAI21Papers/AAAI-5922.YeHJ.pdf)
