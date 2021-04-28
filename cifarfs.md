@@ -30,3 +30,5 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [LR+ICI v2](https://arxiv.org/pdf/2007.08461.pdf) | arXiv | 2020 |  ResNet-12 | Transductive |  75.46 ± 1.16 | 84.50 ± 0.72 | [\[PyTorch\]](https://github.com/Yikai-Wang/ICI-FSL) | [\[Source\]](https://arxiv.org/pdf/2007.08461.pdf)
 [ConstellationNet](https://openreview.net/pdf?id=vujTf_I8Kmc)     | ICLR   | 2021 | ResNet-12   | Inductive | 75.4 ± 0.2   | 86.8 ± 0.2     | None | [\[Source\]](https://openreview.net/pdf?id=vujTf_I8Kmc)
 [ConstellationNet](https://openreview.net/pdf?id=vujTf_I8Kmc)     | ICLR   | 2021 | 4CONV   | Inductive | 69.3 ± 0.3   | 82.7 ± 0.2     | None | [\[Source\]](https://openreview.net/pdf?id=vujTf_I8Kmc)
+[PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | WRN | Inductive | 74.64 ± 0.21 | 87.64 ± 0.15  | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
+[PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | WRN | Transductive |  87.69 ± 0.23  | 90.68 ± 0.15 | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
