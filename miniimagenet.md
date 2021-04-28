@@ -83,5 +83,5 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [OVE PG G P+ Cosine (PL)](https://openreview.net/pdf?id=lgNx56yZh8a)     | ICLR   | 2021 | 4CONV  | Inductive | 48.00 ± 0.24    | 67.14 ± 0.23     | None | [\[Source\]](https://openreview.net/pdf?id=lgNx56yZh8a)
 [BOIL](https://openreview.net/pdf?id=umIdUL8rMH)     | ICLR   | 2021 | 4CONV  | Inductive | 49.61 ± 0.16    | 66.45 ± 0.37     | None | [\[Source\]](https://openreview.net/pdf?id=umIdUL8rMH)
 [FRN](https://arxiv.org/pdf/2012.01506.pdf) | CVPR | 2021 | ResNet-12 | Inductive |  66.45 ± 0.19 | 82.83 ± 0.13  | [\[PyTorch\]](https://github.com/Tsingularity/FRN) | [\[Source\]](https://arxiv.org/pdf/2012.01506.pdf)
-[PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | WRN | Transductive |  65.35 ± 0.20 | 83.87 ± 0.13  | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
+[PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | WRN | Inductive |  65.35 ± 0.20 | 83.87 ± 0.13  | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
 [PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | WRN | Transductive |  82.92 ± 0.26 | 88.82 ± 0.13  | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
