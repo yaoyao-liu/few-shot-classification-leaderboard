@@ -61,3 +61,5 @@ Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code |
 [MELR](https://openreview.net/pdf?id=D3PcGLdMx0)     | ICLR   | 2021 | 4CONV  | Inductive | 56.38 ± 0.48    | 73.22 ± 0.41     | None | [\[Source\]](https://openreview.net/pdf?id=D3PcGLdMx0)
 [BOIL](https://openreview.net/pdf?id=umIdUL8rMH)     | ICLR   | 2021 | 4CONV  | Inductive | 49.35 ± 0.26    | 69.37 ± 0.12     | None | [\[Source\]](https://openreview.net/pdf?id=umIdUL8rMH)
 [FRN](https://arxiv.org/pdf/2012.01506.pdf) | CVPR | 2021 | ResNet-12 | Inductive |  72.06 ± 0.22 | 86.89 ± 0.14  | [\[PyTorch\]](https://github.com/Tsingularity/FRN) | [\[Source\]](https://arxiv.org/pdf/2012.01506.pdf)
+[PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | DenseNet121 | Inductive | 69.96 ± 0.22 | 86.45 ± 0.15  | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
+[PT+MAP](https://arxiv.org/pdf/2006.03806v3.pdf) | arXiv | 2021 | DenseNet121 | Transductive |  85.67 ± 0.26 | 90.45 ± 0.14 | [\[PyTorch\]](https://github.com/yhu01/PT-MAP) | [\[Source\]](https://arxiv.org/pdf/2006.03806v3.pdf)
