@@ -8,6 +8,8 @@ layout: leaderboard
 
 #### [Edit this leaderboard](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/edit/main/cifarfs.md)
 
+<strong style="color:#e74d3c;">Updated to CVPR2021. Papers published in ICCV2021 and NeurIPS2021 haven't been added. I will include them soon.</strong>
+
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
 [MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 72.0 ± 0.7    | 84.2 ± 0.5     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
