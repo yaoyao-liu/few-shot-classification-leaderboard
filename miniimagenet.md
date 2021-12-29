@@ -3,7 +3,7 @@ title: miniImageNet
 layout: leaderboard
 ---
 
-## *mini*ImageNet Leaderboard (5-class)
+## *mini*ImageNet Leaderboard (5-class)aaa
 
 #### [Edit this leaderboard](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/edit/main/miniimagenet.md)
 
