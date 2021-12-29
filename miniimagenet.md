@@ -7,8 +7,6 @@ layout: leaderboard
 
 #### [Edit this leaderboard](https://github.com/yaoyao-liu/few-shot-classification-leaderboard/edit/main/miniimagenet.md)
 
-<strong style="color:#e74d3c;">Updated to NeurIPS2021.</strong>
-
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
 [GNN](https://arxiv.org/pdf/1711.04043.pdf) + [FT](https://arxiv.org/pdf/2001.08735.pdf) | ICLR | 2020 | ResNet-10 | Inductive | 66.32 ± 0.80 | 81.98 ± 0.55 | [\[PyTorch\]](https://github.com/hytseng0509/CrossDomainFewShot) | [\[Source\]](https://arxiv.org/pdf/2001.08735.pdf)
