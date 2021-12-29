@@ -19,6 +19,4 @@ CIFAR-FS: [\[html\]](https://few-shot.yyliu.net/cifarfs.html) [\[Markdown\]](htt
 
 ### Contact
 
-Yaoyao Liu / yaoyao.liu (at) mpi-inf.mpg.de
-
-Chi Zhang / chi007 (at) e.ntu.edu.sg
+contact@fewshot.org
