@@ -9,10 +9,10 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
-[EASY](https://arxiv.org/pdf/2201.09699.pdf) | _ |  2022 | 3xResNet12 | Transductive | 84.04 ± 0.23 | 89.14 ± 0.11 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
-[EASY](https://arxiv.org/pdf/2201.09699.pdf) | _ |  2022 | 2xResNet12(1/√2) | Transductive | 82.31 ± 0.24 | 88.57 ± 0.12 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
-[EASY](https://arxiv.org/pdf/2201.09699.pdf) | _ |  2022 | 3xResNet12 | Inductive | 71.75 ± 0.19 | 87.15 ± 0.12 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
-[EASY](https://arxiv.org/pdf/2201.09699.pdf) | _ |  2022 | 2xResNet12(1/√2) | Inductive | 70.63 ± 0.20 | 86.28 ± 0.12 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet012 | Transductive | 84.04 ± 0.23 | 89.14 ± 0.11 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 2xResNet-12(1/√2) | Transductive | 82.31 ± 0.24 | 88.57 ± 0.12 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet-12 | Inductive | 71.75 ± 0.19 | 87.15 ± 0.12 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 2xResNet-12(1/√2) | Inductive | 70.63 ± 0.20 | 86.28 ± 0.12 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
 [GNN](https://arxiv.org/pdf/1711.04043.pdf) + [FT](https://arxiv.org/pdf/2001.08735.pdf) | ICLR | 2020 | ResNet-10 | Inductive | 66.32 ± 0.80 | 81.98 ± 0.55 | [\[PyTorch\]](https://github.com/hytseng0509/CrossDomainFewShot) | [\[Source\]](https://arxiv.org/pdf/2001.08735.pdf)
 [MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 62.64 ± 0.61    | 78.63 ± 0.46     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
 [MTL](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 61.2 ± 1.8    | 75.5 ± 0.8    | [\[PyTorch\]](https://github.com/yaoyao-liu/meta-transfer-learning/) | [\[Source\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
