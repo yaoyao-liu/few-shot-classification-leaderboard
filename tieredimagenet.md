@@ -10,6 +10,10 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | _ |  2022 | 3xResNet12 | Transductive |  84.29 ± 0.24  |    89.76 ± 0.14 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[ASY](https://arxiv.org/pdf/2201.09699.pdf) | _ |  2022 | ResNet12 | Transductive |  83.98 ± 0.24 |   89.26 ± 0.14 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | _ |  2022 | 3xResNet12 | Inductive |  74.71 ± 0.22 |   88.33 ± 0.14 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[ASY](https://arxiv.org/pdf/2201.09699.pdf) | _ |  2022 | ResNet12 | Inductive | 74.31 ± 0.22 |  87.86 ± 0.15 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
 [MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive |  65.99 ± 0.72    | 81.56 ± 0.53     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
 [LEO](https://arxiv.org/pdf/1807.05960.pdf) | ICLR | 2019 | WRN-28-10 | Inductive | 66.33 ± 0.05 | 82.06 ± 0.08 | [\[TensorFlow\]](https://github.com/deepmind/leo) | [\[Source\]](https://arxiv.org/pdf/1807.05960.pdf)
 [ProtoNets](https://arxiv.org/pdf/1703.05175.pdf) | NeurIPS | 2017 | 4CONV | Inductive | 53.31 ± 0.89 | 72.69 ± 0.74 | [\[PyTorch\]](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch) | [\[Source\]](https://arxiv.org/pdf/1703.05175.pdf)
