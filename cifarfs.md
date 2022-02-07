@@ -10,6 +10,10 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet012 | Transductive | 87.16 ± 0.21 |  90.47 ± 0.15 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 2xResNet-12(1/√2) | Transductive | 86.99 ± 0.21 | 90.20 ± 0.15 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet-12 | Inductive |  76.20 ± 0.2 |  89.00 ± 0.14 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
+[EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 2xResNet-12(1/√2) | Inductive |  75.24 ± 0.2 |  88.38 ± 0.1 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
 [MetaOptNet](https://arxiv.org/pdf/1904.03758.pdf)     | CVPR   | 2019 | ResNet-12  | Inductive | 72.0 ± 0.7    | 84.2 ± 0.5     | [\[PyTorch\]](https://github.com/kjunelee/MetaOptNet) | [\[Source\]](https://arxiv.org/pdf/1904.03758.pdf)
 [Dhillon et al.](https://openreview.net/pdf?id=rylXBkrYDS) | ICLR | 2020 | WRN-28-10 | Transductive |  76.58 ± 0.68 | 85.79 ± 0.50 | None | [\[Source\]](https://openreview.net/pdf?id=rylXBkrYDS)
 [SIB](https://openreview.net/pdf?id=Hkg-xgrYvH) | ICLR | 2020 | WRN-28-10 | Transductive |  80.0 ± 0.6 | 85.3 ± 0.4 | [\[PyTorch\]](https://github.com/hushell/sib_meta_learn) | [\[Source\]](https://openreview.net/pdf?id=Hkg-xgrYvH)
