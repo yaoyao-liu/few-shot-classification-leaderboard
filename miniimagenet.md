@@ -9,6 +9,8 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[Meta DeepBDC](https://arxiv.org/pdf/2204.04567.pdf) | CVPR | 2022 | ResNet-12 | Inductive | 67.34 ± 0.43 | 84.46 ± 0.28 | [\[PyTorch\]](https://github.com/Fei-Long121/DeepBDC) | [\[Source\]](https://arxiv.org/pdf/2204.04567.pdf)
+[STL DeepBDC](https://arxiv.org/pdf/2204.04567.pdf) | CVPR | 2022 | ResNet-12 | Inductive | 67.83 ± 0.43 | 85.45 ± 0.29 | [\[PyTorch\]](https://github.com/Fei-Long121/DeepBDC) | [\[Source\]](https://arxiv.org/pdf/2204.04567.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet012 | Transductive | 84.04 ± 0.23 | 89.14 ± 0.11 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 2xResNet-12(1/√2) | Transductive | 82.31 ± 0.24 | 88.57 ± 0.12 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet-12 | Inductive | 71.75 ± 0.19 | 87.15 ± 0.12 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
