@@ -9,6 +9,7 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[HCTransformers](https://arxiv.org/pdf/2203.09064v1.pdf) | CVPR | 2022 | ViT-S | Inductive | 74.74 ± 0.17 | 89.19 ± 0.13 | [\[PyTorch\]](https://github.com/StomachCold/HCTransformers) | [\[Source\]](https://arxiv.org/pdf/2203.09064v1.pdf)
 [Meta DeepBDC](https://arxiv.org/pdf/2204.04567.pdf) | CVPR | 2022 | ResNet-12 | Inductive | 67.34 ± 0.43 | 84.46 ± 0.28 | [\[PyTorch\]](https://github.com/Fei-Long121/DeepBDC) | [\[Source\]](https://arxiv.org/pdf/2204.04567.pdf)
 [STL DeepBDC](https://arxiv.org/pdf/2204.04567.pdf) | CVPR | 2022 | ResNet-12 | Inductive | 67.83 ± 0.43 | 85.45 ± 0.29 | [\[PyTorch\]](https://github.com/Fei-Long121/DeepBDC) | [\[Source\]](https://arxiv.org/pdf/2204.04567.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet012 | Transductive | 84.04 ± 0.23 | 89.14 ± 0.11 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
