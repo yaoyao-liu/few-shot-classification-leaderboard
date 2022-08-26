@@ -10,6 +10,9 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[UniSiam](https://arxiv.org/pdf/2207.09176.pdf) (Unsupervised) | ECCV | 2022 | ResNet-18 | Inductive | 67.01 ± 0.39 |  84.47 ± 0.28 | [\[PyTorch\]](https://github.com/bbbdylan/unisiam) | [\[Source\]](https://arxiv.org/pdf/2207.09176.pdf)
+[UniSiam](https://arxiv.org/pdf/2207.09176.pdf) (Unsupervised) | ECCV | 2022 | ResNet-34 | Inductive | 68.65 ± 0.39 |  85.70 ± 0.27 | [\[PyTorch\]](https://github.com/bbbdylan/unisiam) | [\[Source\]](https://arxiv.org/pdf/2207.09176.pdf)
+[UniSiam](https://arxiv.org/pdf/2207.09176.pdf) (Unsupervised) | ECCV | 2022 | ResNet-50 | Inductive | 69.60 ± 0.38 |  86.51 ± 0.26 | [\[PyTorch\]](https://github.com/bbbdylan/unisiam) | [\[Source\]](https://arxiv.org/pdf/2207.09176.pdf)
 [HCTransformers](https://arxiv.org/pdf/2203.09064v1.pdf) | CVPR | 2022 | ViT-S | Inductive | 79.67 ± 0.20 | 91.72 ± 0.11 | [\[PyTorch\]](https://github.com/StomachCold/HCTransformers) | [\[Source\]](https://arxiv.org/pdf/2203.09064v1.pdf)
 [Meta DeepBDC](https://arxiv.org/pdf/2204.04567.pdf) | CVPR | 2022 | ResNet-12 | Inductive | 72.34 ± 0.49 | 87.31 ± 0.32 | [\[PyTorch\]](https://github.com/Fei-Long121/DeepBDC) | [\[Source\]](https://arxiv.org/pdf/2204.04567.pdf)
 [STL DeepBDC](https://arxiv.org/pdf/2204.04567.pdf) | CVPR | 2022 | ResNet-12 | Inductive | 73.82 ± 0.47 | 89.00 ± 0.30 | [\[PyTorch\]](https://github.com/Fei-Long121/DeepBDC) | [\[Source\]](https://arxiv.org/pdf/2204.04567.pdf)
