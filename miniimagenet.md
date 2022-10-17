@@ -9,6 +9,8 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[FewTURE](https://arxiv.org/pdf/2206.07267.pdf) | NeurIPS | 2022 | Swin-Tiny | Inductive | 72.40 ± 0.78 |  86.38 ± 0.49 | [\[PyTorch\]](https://github.com/mrkshllr/FewTURE) | [\[Source\]](https://arxiv.org/pdf/2206.07267.pdf)
+[FewTURE](https://arxiv.org/pdf/2206.07267.pdf) | NeurIPS | 2022 | ViT-Small | Inductive | 68.02 ± 0.88 |  84.51 ± 0.53 | [\[PyTorch\]](https://github.com/mrkshllr/FewTURE) | [\[Source\]](https://arxiv.org/pdf/2206.07267.pdf)
 [UniSiam](https://arxiv.org/pdf/2207.09176.pdf) (Unsupervised) | ECCV | 2022 | ResNet-18 | Inductive | 64.10 ± 0.36 |  82.26 ± 0.25 | [\[PyTorch\]](https://github.com/bbbdylan/unisiam) | [\[Source\]](https://arxiv.org/pdf/2207.09176.pdf)
 [UniSiam](https://arxiv.org/pdf/2207.09176.pdf) (Unsupervised) | ECCV | 2022 | ResNet-34 | Inductive | 65.55 ± 0.36 |  83.40 ± 0.24 | [\[PyTorch\]](https://github.com/bbbdylan/unisiam) | [\[Source\]](https://arxiv.org/pdf/2207.09176.pdf)
 [HCTransformers](https://arxiv.org/pdf/2203.09064v1.pdf) | CVPR | 2022 | ViT-S | Inductive | 74.74 ± 0.17 | 89.19 ± 0.13 | [\[PyTorch\]](https://github.com/StomachCold/HCTransformers) | [\[Source\]](https://arxiv.org/pdf/2203.09064v1.pdf)
