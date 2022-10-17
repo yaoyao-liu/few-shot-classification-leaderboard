@@ -10,6 +10,8 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[FewTURE](https://arxiv.org/pdf/2206.07267.pdf) | NeurIPS | 2022 | Swin-Tiny | Inductive | 76.32 ± 0.87 |  89.96 ± 0.55 | [\[PyTorch\]](https://github.com/mrkshllr/FewTURE) | [\[Source\]](https://arxiv.org/pdf/2206.07267.pdf)
+[FewTURE](https://arxiv.org/pdf/2206.07267.pdf) | NeurIPS | 2022 | ViT-Small | Inductive | 72.96 ± 0.92 |  86.43 ± 0.67 | [\[PyTorch\]](https://github.com/mrkshllr/FewTURE) | [\[Source\]](https://arxiv.org/pdf/2206.07267.pdf)
 [UniSiam](https://arxiv.org/pdf/2207.09176.pdf) (Unsupervised) | ECCV | 2022 | ResNet-18 | Inductive | 67.01 ± 0.39 |  84.47 ± 0.28 | [\[PyTorch\]](https://github.com/bbbdylan/unisiam) | [\[Source\]](https://arxiv.org/pdf/2207.09176.pdf)
 [UniSiam](https://arxiv.org/pdf/2207.09176.pdf) (Unsupervised) | ECCV | 2022 | ResNet-34 | Inductive | 68.65 ± 0.39 |  85.70 ± 0.27 | [\[PyTorch\]](https://github.com/bbbdylan/unisiam) | [\[Source\]](https://arxiv.org/pdf/2207.09176.pdf)
 [UniSiam](https://arxiv.org/pdf/2207.09176.pdf) (Unsupervised) | ECCV | 2022 | ResNet-50 | Inductive | 69.60 ± 0.38 |  86.51 ± 0.26 | [\[PyTorch\]](https://github.com/bbbdylan/unisiam) | [\[Source\]](https://arxiv.org/pdf/2207.09176.pdf)
