@@ -10,6 +10,8 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[FewTURE](https://arxiv.org/pdf/2206.07267.pdf) | NeurIPS | 2022 | Swin-Tiny | Inductive | 77.76 ± 0.81 |  88.90 ± 0.59 | [\[PyTorch\]](https://github.com/mrkshllr/FewTURE) | [\[Source\]](https://arxiv.org/pdf/2206.07267.pdf)
+[FewTURE](https://arxiv.org/pdf/2206.07267.pdf) | NeurIPS | 2022 | ViT-Small | Inductive | 76.10 ± 0.88 |  86.14 ± 0.64 | [\[PyTorch\]](https://github.com/mrkshllr/FewTURE) | [\[Source\]](https://arxiv.org/pdf/2206.07267.pdf)
 [HCTransformers](https://arxiv.org/pdf/2203.09064v1.pdf) | CVPR | 2022 | ViT-S | Inductive | 78.89 ± 0.18 | 90.50 ± 0.09 | [\[PyTorch\]](https://github.com/StomachCold/HCTransformers) | [\[Source\]](https://arxiv.org/pdf/2203.09064v1.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet-12 | Transductive | 87.16 ± 0.21 |  90.47 ± 0.15 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 2xResNet-12(1/√2) | Transductive | 86.99 ± 0.21 | 90.20 ± 0.15 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
